@@ -1,0 +1,3 @@
+DEFINE_NEAR_METHOD(ftOnTransfer)
+DEFINE_NEAR_METHOD(getContractData)
+DEFINE_NEAR_METHOD(init)
